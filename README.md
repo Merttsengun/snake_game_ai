@@ -42,4 +42,4 @@ python snake_game.py
 
 ---
 
-Feel free to improve or experiment with the AI logic for better performance! 🚀
+Feel free to improve or experiment with the AI logic for better performance! 
